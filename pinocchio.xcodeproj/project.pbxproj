@@ -18,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		310131AC251E964A004595BB /* ConeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConeNode.swift; sourceTree = "<group>"; };
+		31FDF679255B3157002690C5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FAFFA95E21AD39E400221D29 /* pinocchio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pinocchio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAFFA96121AD39E400221D29 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAFFA96321AD39E400221D29 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +67,7 @@
 				FAFFA96821AD39E600221D29 /* Assets.xcassets */,
 				FAFFA96A21AD39E600221D29 /* LaunchScreen.storyboard */,
 				FAFFA96D21AD39E600221D29 /* Info.plist */,
+				31FDF679255B3157002690C5 /* README.md */,
 			);
 			path = pinocchio;
 			sourceTree = "<group>";
